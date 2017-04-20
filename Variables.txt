@@ -1,0 +1,7 @@
+*** Settings ***
+Library           ../PythonWhiteLibrary/src/WhiteLibrary.py
+Resource          PythonWhiteLibrary/src/WhiteLibrary.py
+Variables         PythonWhiteLibrary/src/WhiteLibrary.py
+
+*** Test Cases ***
+sample

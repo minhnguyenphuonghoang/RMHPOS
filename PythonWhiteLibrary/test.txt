@@ -1,0 +1,17 @@
+*** Settings ***
+Library           src/WhiteLibrary.py
+Variables         ../GUIMAP/driver_not_found.py
+Variables         ../GUIMAP/LogInScreen.py
+
+*** Test Cases ***
+Test 001 - Log In Successfully
+    Open Application
+    # Input Text To Textbox    ${Login_username}    999
+    Close Application
+
+
+*** Keywords ***
+Open Application
+    Launch Application    C:/Program Files (x86)/Retail Hero/RMH POS/RetailHero.POS.App.exe
+    # Launch Application    C:/Program Files (x86)/Retail Hero/RMH Loyalty/RetailHero.Loyalty.Manager.exe
+    Attach Window    RMH Loyalty Manager    #${Login_ContextName}

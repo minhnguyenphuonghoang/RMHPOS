@@ -1,0 +1,14 @@
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\CSWhiteLibrary.dll
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\CSWhiteLibrary.pdb
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\Castle.Core.dll
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.dll
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.Reporting.dll
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.ScreenObjects.dll
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\Castle.Core.xml
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.pdb
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.xml
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.Reporting.pdb
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\bin\TestStack.White.ScreenObjects.pdb
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\obj\Debug\CSWhiteLibrary.csprojResolveAssemblyReference.cache
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\obj\Debug\CSWhiteLibrary.dll
+D:\RobotFrameworkLibs\robotframework-whitelibrary-master\WhiteLibrary\obj\Debug\CSWhiteLibrary.pdb
